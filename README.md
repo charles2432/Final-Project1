@@ -1,2 +1,2 @@
-# Final-Project1
-true final project
+# Final-Project
+Project for my final 
